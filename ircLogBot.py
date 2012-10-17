@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-VERSION = "0.3alpha"
+VERSION = "0.3c"
 
 #    Adrien Pujol - crashdump.fr
 #
